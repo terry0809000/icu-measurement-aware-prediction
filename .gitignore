@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.cache/
+logs/
+data/
+data_private/
+data_processed/
+models/
+weights/
+outputs/
+*.pkl
+*.joblib
+*.pt
+*.pth
+.env

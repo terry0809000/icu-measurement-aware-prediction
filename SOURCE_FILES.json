@@ -1,0 +1,74 @@
+[
+  {
+    "path": "audit.py",
+    "sha256": "ff4432c6fd55766cb2c0d1b913a644071750adc3ebd6fa049f021e0f23a71fea"
+  },
+  {
+    "path": "coverage_hospital.py",
+    "sha256": "6b0c6409ec0c23f4b2b364cd3ddcf711bea764641040333a7003ae093367b53f"
+  },
+  {
+    "path": "environment.json",
+    "sha256": "227833fad849a8196e2a383d169c62f63cf73d97c49f76efb9b8f5ee02b26744"
+  },
+  {
+    "path": "evaluate.py",
+    "sha256": "b53cf9bb2ca39d45080b7435aabebc0a26d5d2e3a1a841ca0b91d4dad93b0f9d"
+  },
+  {
+    "path": "extract.py",
+    "sha256": "3dbb6bbb3e5d0407c8c8fb90bccc5f622f0007efe61a810de64d28c2d5aced9d"
+  },
+  {
+    "path": "figures.py",
+    "sha256": "bde2d81f1666dbb52b1ac7df2db34f91e105ec93470acb14b8cb4dede48e15c0"
+  },
+  {
+    "path": "integrate_final_analysis.py",
+    "sha256": "8d3573ee7c80df9c59e839602da9d7a5d076dfa0b35ac735e2dbfd89fbab231a"
+  },
+  {
+    "path": "models.py",
+    "sha256": "a2f9a799836ad8e9a2a7a4484c40515892e7f00c4ab63acc582731b538f05b38"
+  },
+  {
+    "path": "negative_controls.py",
+    "sha256": "3bb4fc1f39c966f9c1c65acd0b0625308c97067740eb4271fa438d7e4fec0f95"
+  },
+  {
+    "path": "prepare.py",
+    "sha256": "e0f60c9a02d0fde3fa683374aafe7ecc003f7e4dc2541e8d5e98d07035698be0"
+  },
+  {
+    "path": "docs/original/README.md",
+    "sha256": "de3850bfce45fa1a9ec7a4d601e0b74890b786bd4a5ec30c6aece6553bb7768f"
+  },
+  {
+    "path": "recency_audit.py",
+    "sha256": "f1b144f3c9bc77e6952560184e24d3e60276033c9c3343911f25a722cb07898d"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "d069ceb673788b4d8624820b00720232325ce5cd6b54c679ca0bbbf44d3edd5f"
+  },
+  {
+    "path": "sensitivity.py",
+    "sha256": "9c43e1127fb1c40da98409a0bb6ff3d16b893bceeb32ea8d6e1c20c60213eade"
+  },
+  {
+    "path": "statistics_core.py",
+    "sha256": "031606ac085a1ca1ab10e7aaebc1fd675cf2dfb287a260c571c527707a0e600f"
+  },
+  {
+    "path": "tuning_extension/evaluate_locked.py",
+    "sha256": "c76e222d16ef1efa9f23de4586b64a6b77572f7f46121b2162ea2ef8af86617c"
+  },
+  {
+    "path": "tuning_extension/run_search.py",
+    "sha256": "d41c5b3e91ff5c5843455e80c5311e156fadf8d0b1d0443247b52803035a63f6"
+  },
+  {
+    "path": "tuning_extension/verify_extension.py",
+    "sha256": "8aa93931eedd25a79186aa3cbd6c7ac6370b50a0918166cd0cde98aa22cd8866"
+  }
+]

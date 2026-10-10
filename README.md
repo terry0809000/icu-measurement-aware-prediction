@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/project-cover.png" width="100%" alt="Conceptual scientific artwork for ICU measurement patterns" /></p>
+
 # Measurement-aware retrospective ICU prediction
 
 **Prediction Modelling · Research pipeline · Source-code release**

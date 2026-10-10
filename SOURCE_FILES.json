@@ -40,6 +40,10 @@
     "sha256": "e0f60c9a02d0fde3fa683374aafe7ecc003f7e4dc2541e8d5e98d07035698be0"
   },
   {
+    "path": "protocol.md",
+    "sha256": "5f007eabaa073f5249c2bbc74ca595363806c4c0d02f925a75afe8a69d9bbc85"
+  },
+  {
     "path": "docs/original/README.md",
     "sha256": "de3850bfce45fa1a9ec7a4d601e0b74890b786bd4a5ec30c6aece6553bb7768f"
   },
@@ -62,6 +66,10 @@
   {
     "path": "tuning_extension/evaluate_locked.py",
     "sha256": "c76e222d16ef1efa9f23de4586b64a6b77572f7f46121b2162ea2ef8af86617c"
+  },
+  {
+    "path": "tuning_extension/protocol.md",
+    "sha256": "a113296a64792ea2af86a6467e79cb57eacf763e601207b185681d53037072b2"
   },
   {
     "path": "tuning_extension/run_search.py",

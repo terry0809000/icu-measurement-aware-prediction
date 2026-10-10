@@ -20,6 +20,8 @@ This is a source-only repository. Raw data, individual-level derivatives and fit
 
 ## Execution
 
+See the [pipeline and command reference](PIPELINE.md) for entry points, required arguments and the source-specific input contract.
+
 Run commands from the repository root unless the original notes specify another working directory. Use a fresh copy and configure local data paths before running.
 
 ```bash
@@ -37,6 +39,9 @@ python integrate_final_analysis.py
 
 ### Scientific source inventory
 
+<details>
+<summary>Browse the preserved scientific implementation</summary>
+
 - [`audit.py`](audit.py)
 - [`coverage_hospital.py`](coverage_hospital.py)
 - [`evaluate.py`](evaluate.py)
@@ -52,6 +57,8 @@ python integrate_final_analysis.py
 - [`tuning_extension/evaluate_locked.py`](tuning_extension/evaluate_locked.py)
 - [`tuning_extension/run_search.py`](tuning_extension/run_search.py)
 - [`tuning_extension/verify_extension.py`](tuning_extension/verify_extension.py)
+
+</details>
 
 ## Repository contents and rights
 
